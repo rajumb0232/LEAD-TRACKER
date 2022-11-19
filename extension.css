@@ -1,0 +1,73 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 10px;
+    min-width: 400px;
+}
+#input-el{
+    border: solid #5f9341;
+    border-radius: 3px;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 5px;
+    height: 30px;
+    box-shadow:0px 0px 10px #b0c2a647;    
+}
+#save-el{
+    font-size: 10px;
+    font-weight: bold;
+    color: aliceblue;
+    height: 30px;
+    width: 100px;
+    box-shadow:0px 0px 10px #5f934161;
+    border: 0;
+    border-radius: 3px;    
+    background-color: #5f9341;
+}
+#delete-el{
+    font-size: 10px;
+    font-weight: bold;
+    color: aliceblue;
+    height: 30px;
+    width: 100px;
+    box-shadow:0px 0px 10px #5f934161;
+    border: 0;
+    border-radius: 3px;    
+    background-color: #5f9341;
+}
+#tab-el{
+    font-size: 10px;
+    font-weight: bold;
+    color: aliceblue;
+    height: 30px;
+    width: 100px;
+    box-shadow:0px 0px 10px #5f934161;
+    border: 0;
+    border-radius: 3px;    
+    background-color: #5f9341;
+}
+#delete-el:hover{
+    border: 1px solid #000000;
+    box-shadow:0px 0px 10px #00000055;
+}
+#save-el:hover{
+    border: 1px solid #000000;
+    box-shadow:0px 0px 10px #00000055;
+}
+#tab-el:hover{
+    border: 1px solid #000000;
+    box-shadow:0px 0px 10px #00000055;
+}
+ul{
+   list-style: none;
+   padding: 0;
+}
+li{
+   margin-top: 5px;
+}
+a{
+    color: #5f9341;
+    font-size: 16px;
+}
